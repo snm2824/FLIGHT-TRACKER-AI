@@ -1,0 +1,5 @@
+{
+  "name": "Flight Tracker AI",
+  "description": "An AI-powered flight tracker that provides real-time flight status, departure/arrival information, and visualizes the flight path on a map using a flight number.",
+  "requestFramePermissions": []
+}
